@@ -1,4 +1,4 @@
-ef atm():
+def atm():
     print("Welcome to XYZ ATM")
 
     bal = 10000 
